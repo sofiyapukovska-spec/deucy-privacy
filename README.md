@@ -1,1 +1,1 @@
-# slice-privacy
+# deucy-privacy
